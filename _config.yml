@@ -25,23 +25,24 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Lindi Sang"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  pronouns         : "he/his"# example: "she/her"  
+  bio              : "hello! tech creates better future"
   location         : "Singapore"
   employer         : "National University of Singapore"
   uri              : # URL
   email            : "sld150000@163.com" 
 
   # Academic websites
+  bilibili         :  "https://space.bilibili.com/27305848?spm_id_from=333.1007.0.0"
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  # orcid            : "https://orcid.org/yourorcidurl"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
