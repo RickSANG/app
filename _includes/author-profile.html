@@ -170,7 +170,16 @@
       {% endif %}
       {% if author.zhihu %}
       <li><a href="https://www.zhihu.com/people/{{ author.zhihu }}"><i class="fab fa-fw fa-zhihu icon-pad-right" aria-hidden="true"></i>Zhihu</a></li>
-      {% endif %}      
+      {% endif %}    
+
+      {% if author.wechat %}
+      <li><i class="fas fa-fw fa-comment-dots" aria-hidden="true"></i> 微信：{{ author.wechat }} </li>
+      {% endif %}
+
+      {% if author.bilibili %}
+      <li><i class="fas fa-fw fa-video" aria-hidden="true"></i> B站：{{ author.bilibili }} </li>
+      {% endif %}
+      
     </ul>
   </div>
 </div>
