@@ -11,50 +11,49 @@ redirect_from:
 
 Education
 ======
-* [cite_start]**M.S. in Materials Science and Engineering**, National University of Singapore [cite: 5, 6][cite_start], 2025.08 - 2026.06 (Expected) [cite: 7]
-  * [cite_start]Focus: Machine Learning for Materials, Semiconductor Optoelectronics, Radio Frequency Design [cite: 8]
-  * [cite_start]Research: Deep Learning Force Fields, Universal Atomic Models, AI-Accelerated Computing [cite: 9]
-* [cite_start]**B.S. in Materials Science and Engineering**, University of Electronic Science and Technology of China (UESTC) [cite: 10, 11, 12][cite_start], 2021.09 - 2025.06 [cite: 13]
-  * [cite_start]GPA: 3.9/4.0 (Rank: 2/21) [cite: 14]
+* **M.S. in Materials Science and Engineering**, National University of Singapore, 2025.08 - 2026.06 (Expected)
+  * Main Courses: Advanced Materials Characterization, Semiconductor Optoelectronics, RF Design and Systems, Atomic Modeling, Machine Learning, Materials Physics, Finite Element Method.
+  * Research Direction: Deep learning force fields, universal atomic models, and AI-accelerated computing.
+* **B.S. in Materials Science and Engineering**, University of Electronic Science and Technology of China (UESTC), 2021.09 - 2025.06
+  * Academic Performance: GPA 3.9/4.0, Rank 2/21.
+  * Main Courses: Materials Physics and Chemistry, Solid State Physics, Semiconductor Physics, Semiconductor Devices, Magnetic Physics, Dielectric Physics, Electronic Materials and Components, Thin Film Physics and Technology, Computational Materials Science, Physical and Chemical Power Sources, Circuit Analysis, Digital Logic Design, Experimental Design Methods.
 
-Experience
+Work experience
 ======
-* [cite_start]**Intern**, A*STAR Institute of High Performance Computing (IHPC) [cite: 17]
-  * [cite_start]2025.08 - Present [cite: 17]
-  * [cite_start]Developing AI-accelerated surface catalysis models based on GNN and Transformer architectures[cite: 21, 22].
-* [cite_start]**Intern**, Huizhou EVE Energy Co., Ltd. [cite: 17]
-  * [cite_start]2024.01 [cite: 17]
-  * [cite_start]Conducted battery system testing including PACK/module thermal tests and vibration/shock trials[cite: 18, 19].
-* [cite_start]**Student Assistant**, UESTC School of Innovation and Entrepreneurship [cite: 43]
-  * [cite_start]2023.09 - 2024.01 [cite: 44]
-  * [cite_start]Managed "UESTC Chuang" campus public account and assisted in daily operations[cite: 43].
+* **Intern**, Institute of High Performance Computing (A*STAR IHPC), 2025.08 - Present
+  * Focus on AI-accelerated surface catalysis models and foundation model training using GNN and Transformer architectures.
+* **Intern**, Huizhou EVE Energy Co., Ltd., 2024.01
+  * Participated in battery system testing, including high/low temperature environment tests for PACK and modules.
+  * Conducted vibration and shock trials, power tests, and simulated condition testing for battery packs.
 
-Projects
+Project Experience
 ======
-* [cite_start]**GNN-based AI Accelerated Surface Catalysis Model** (Master's Thesis) [cite: 21]
-  * [cite_start]Built high-throughput *ab initio* datasets using CatPlat platform to train GNN-Transformer models for PES learning[cite: 22].
-* [cite_start]**Bio-inspired Memristive Synapse for Neuromorphic Computing** (Bachelor's Thesis) [cite: 23]
-  * [cite_start]Fabricated Mo/AlScN/Pt memristors using magnetron sputtering; achieved high resistance ratio ($10^3$) and nanosecond update speeds[cite: 25].
-* [cite_start]**Smart Food Storage System based on HiSilicon Hi3861** [cite: 26]
-  * [cite_start]Integrated CV kits for item recognition and environment data collection with a WeChat mini-program[cite: 28].
-* [cite_start]**Spin Transport Properties of Bimetallic Phthalocyanine Molecules** [cite: 29]
-  * [cite_start]Investigated spintronic devices using DFT and NEGF methods via VASP and Nanodcal software[cite: 31].
+* **AI-Accelerated Surface Catalysis Model based on GNN** (Master's Thesis), 2025.08 - Present
+  * Developed a high-quality ab initio dataset using the CatPlat platform to train GNN-Transformer models for Potential Energy Surface (PES) learning.
+* **Biomimetic Memristive Synapses for Neuromorphic Computing** (Bachelor's Thesis), 2024.09 - 2025.05
+  * Fabricated Mo/AlScN/Pt memristors using magnetron sputtering and photolithography.
+  * Characterized devices with small operation windows (-2V to +2V), high switching ratio ($10^3$), and nanosecond-level weight updates.
+* **Smart Food Storage System based on HiSilicon Hi3861**, 2023.12 - 2024.10
+  * Implemented object recognition, environmental data collection, and a WeChat mini-program for recommendations using Pegasus and Taurus kits.
+* **Theoretical Study on Spin Transport Properties of Bimetallic Phthalocyanine Molecules**, 2022.12 - 2023.10
+  * Constructed spintronic devices using Materials Studio and Device Studio.
+  * Investigated spin transport characteristics using DFT and NEGF methods with VASP and Nanodcal software.
 
 Skills
 ======
-* [cite_start]**Software & Programming**: Python, MATLAB, Verilog (FPGA), Linux [cite: 41]
-* [cite_start]**Materials Computation**: VASP, Nanodcal, fairchem framework, Materials Studio [cite: 31, 41]
-* [cite_start]**Experimental**: Magnetron sputtering, Maskless UV lithography, Semiconductor characterization [cite: 25, 41]
+* **Programming & Tools**: Proficient in Python, MATLAB, and Verilog; familiar with FPGA development and Linux OS.
+* **Computational Materials**: Expert in first-principles calculations (VASP, Nanodcal) and universal atomic model training (fairchem framework).
+* **Experimental Techniques**: Skilled in magnetron sputtering, maskless UV photolithography, and semiconductor device fabrication.
 
 Awards & Honors
 ======
-* [cite_start]**National Third Prize**, National University Embedded Chip and System Design Competition[cite: 33], 2024
-* [cite_start]**First Prize**, "Huawei Cup" National University IoT Design Contest (Central & SW China)[cite: 34], 2024
-* [cite_start]**Gold Medal**, Sichuan "Internet+" Innovation and Entrepreneurship Competition[cite: 35], 2023
-* [cite_start]**Scholarships**: EVE Energy Scholarship, Far East Scholarship, UESTC Pacesetter Scholarship [cite: 37, 39]
+* **National Third Prize**, National Undergraduate Embedded Chip and System Design Competition, 2024
+* **First Prize**, "Huawei Cup" National University IoT Design Competition (Central & SW China), 2024
+* **Gold Medal**, Sichuan "Internet+" Student Innovation and Entrepreneurship Competition, 2023
+* **Scholarships**: EVE Energy Scholarship, Far East Scholarship, UESTC Pacesetter Scholarship.
 
 Service and leadership
 ======
-* [cite_start]**Excellence Member**, Propaganda Department of the UESTC Youth League Committee [cite: 39, 43]
-* [cite_start]**Outstanding Camper**, UESTC Young Marxist Training Project [cite: 38]
-* [cite_start]**Student Assistant**, Academic Excellence for Innovation and Entrepreneurship [cite: 38]
+* **Student Assistant**, UESTC School of Innovation and Entrepreneurship (Managed "UESTC Chuang" Public Account).
+* **Member**, Propaganda Department of UESTC Youth League Committee (Managed "UESTC Youth" Public Account).
+* **Outstanding Member**, UESTC Young Marxist Training Project.
