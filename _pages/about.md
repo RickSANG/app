@@ -37,4 +37,6 @@ Interests: In my spare time, I enjoy exploring the potential of anything.
 
 ### Contact & Collaboration
 
-I am always open to discussing research, machine learning, or even the latest episodes of Rick and Morty. Feel free to reach out!
+I am always open to discussing research, machine learning, or even the latest episodes of Rick and Morty. Feel free to reach out!  
+Wechat:Sang0D  
+Email:sld150000@163.com  
