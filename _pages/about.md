@@ -27,7 +27,7 @@ Surface interactions and reaction pathways in heterogeneous systems.
 
 Data-driven materials discovery.
 
-💻 Skills & Interests
+### 💻 Skills & Interests
 
 Core Disciplines: Materials Science, Heterogeneous Catalysis, Computational Chemistry.
 
