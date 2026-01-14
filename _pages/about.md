@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Lindi Sang personal websites"
+title: "Hello! Welcome to Lindi's space"
 author_profile: true
 redirect_from: 
   - /about/
