@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-##Lindi (Ricky) Sang
+## Lindi (Ricky) Sang
 
 ### Master’s Student in NUS| Materials Science and Engineering
 
